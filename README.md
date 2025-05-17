@@ -1,7 +1,7 @@
 # Glassomorphic-E-Commerice-Website
 A glassomorphic e-commerce website made in HTML, CSS, and JavaScript
 
-Author: Timothy Johnson <br>
+Author: Gurramkonda sirisha <br>
 Date: September 2024
 
 ## Overview
