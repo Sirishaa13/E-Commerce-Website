@@ -50,7 +50,7 @@ Glassomorphic-E-Commerce-Website/<br>
 ├── scripts.js &nbsp;&nbsp;&nbsp;---&nbsp;&nbsp;&nbsp; Catalog filters and interactive logic<br>
 
 ## **Live Deployment**  
-🔗 **Access the Live App**: [E-Commerice Website](https://sirishaa13.github.io/E-Commerce-Website/)
+🔗 **Access the Live Website**: [E-Commerice Website](https://sirishaa13.github.io/E-Commerce-Website/)
 
 ⚙️ How It Works
 
