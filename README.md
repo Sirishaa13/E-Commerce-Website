@@ -49,6 +49,9 @@ Glassomorphic-E-Commerce-Website/<br>
 ├── styles.css &nbsp;&nbsp;&nbsp;---&nbsp;&nbsp;&nbsp; Glassmorphism-inspired CSS styles<br>
 ├── scripts.js &nbsp;&nbsp;&nbsp;---&nbsp;&nbsp;&nbsp; Catalog filters and interactive logic<br>
 
+## **Live Deployment**  
+🔗 **Access the Live App**: [E-Commerice Website](https://frauddetection-flask.onrender.com/)
+
 ⚙️ How It Works
 
     Catalog Filtering
